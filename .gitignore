@@ -1,0 +1,8 @@
+
+# Private and local files
+*.session
+*.session-journal
+__pycache__/
+main_backup.py
+.venv/
+.env
